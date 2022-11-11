@@ -1,0 +1,23 @@
+body{
+    margin: 90px;
+}
+h1{
+    color: crimson;
+    text-decoration:underline;
+}
+h2{
+    color: black;
+}
+hr{
+    border-top: 3px dashed crimson;
+}
+ul{
+    width: 350px;
+    float: right;
+    list-style: none;
+}
+li{
+    font-size: 18px;
+    text-align: right;
+    line-height: 2.0;
+}
