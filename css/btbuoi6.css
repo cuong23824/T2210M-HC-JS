@@ -1,0 +1,47 @@
+body{
+    margin: 50px 50px;
+}
+img{
+    width: 60%;
+    margin: 0px 20%
+}
+/*.anh:hover{*/
+/*    transform: scale(1.1);*/
+/*    transition: all 150ms;*/
+/*}*/
+.sp{
+    float: left;
+    margin: 25px;
+    width: calc(33.3% - 50px)
+}
+.sp h1{
+  text-align: center;
+}
+.sp p{
+    text-align: center;
+}
+.sp a:hover{
+    color: red;
+}
+.mau{
+    color: burlywood;
+}
+.stttrang{
+margin-left: 45%;
+}
+
+.stt a{
+    color: azure;
+    text-decoration: none;
+    width: 40px;
+    line-height: 40px;
+    float: left;
+    background-color: grey;
+    margin: 2px;
+    text-align: center;
+}
+.stt a:hover{
+    background-color: gainsboro;
+}
+
+
